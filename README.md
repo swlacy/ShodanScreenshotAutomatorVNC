@@ -20,7 +20,7 @@ Automatically grabs screenshots from open VNC servers discovered on Shodan. Imag
 
 ### Initialize Shodan
 
-`$shodan init <YOUR API KEY HERE>`
+`$ shodan init <YOUR API KEY HERE>`
 
 ## Execution
 
