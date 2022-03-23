@@ -4,7 +4,7 @@ Automatically grabs screenshots from open VNC servers discovered on Shodan. Imag
 
 ![Example Results](exampleResultsRedacted.png)
 
-Note: this script exists to improve the accessibility of Shodan's existing screenshot viewer. I take no liability for any actions performed related to the use of the code in this repository.*
+**Note:** this script exists to improve the accessibility of Shodan's existing screenshot viewer. I take no liability for any actions performed related to the use of the code in this repository.
 
 ## Preliminary setup
 
