@@ -1,7 +1,8 @@
 # ShodanScreenshotAutomatorVNC
-Automatically grabs screenshots from open VNC servers discovered on Shodan
 
-![Example Results](exampleResults.png)
+Automatically grabs screenshots from open VNC servers discovered on Shodan. Images are saved in JPEG format with names following the pattern `$IP-$Port.jpg`.
+
+![Example Results](exampleResultsRedacted.png)
 
 ## Preliminary setup
 
