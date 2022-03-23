@@ -4,6 +4,8 @@ Automatically grabs screenshots from open VNC servers discovered on Shodan. Imag
 
 ![Example Results](exampleResultsRedacted.png)
 
+Note: this script exists to improve the accessibility of Shodan's existing screenshot viewer. I take no liability for any actions performed related to the use of the code in this repository.*
+
 ## Preliminary setup
 
 ### Register on Shodan
@@ -11,10 +13,10 @@ Automatically grabs screenshots from open VNC servers discovered on Shodan. Imag
  - Navigate to [shodan.io](https://account.shodan.io/register) and create an account
  - Go to [the Account page](https://account.shodan.io) and make note of your API key
 
-### Install Dependancies
+### Install Dependencies
 
  - Shodan CLI: `$ pip install -U --user shodan`
- - vncsnapshot: `$ sudo apt install vncsnapshot`, `$ git clone https://github.com/shamun/vncsnapshot`, or your preferred way of aquiring the software
+ - vncsnapshot: `$ sudo apt install vncsnapshot`, `$ git clone https://github.com/shamun/vncsnapshot`, or your preferred way of acquiring the software
 
 ### Initialize Shodan
 
