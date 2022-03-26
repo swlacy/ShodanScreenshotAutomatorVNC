@@ -24,5 +24,4 @@ Automatically grabs screenshots from open VNC servers discovered on Shodan. Imag
 
 ## Execution
 
- - Get a list of VNC servers with a shodan query such as `'authentication disabled' 'RFB 003.008'`: `$ ./getScreenshots shodanparse "'authentication disabled' 'RFB 003.008'"`
- - Extract the screenshots with `$ ./getScreenshots shodanvnc <OUTPUT FILE FROM PREVIOUS COMMAND>`
+Simply run the script -- no further configuration required.
